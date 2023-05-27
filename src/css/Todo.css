@@ -1,0 +1,37 @@
+.todo_main {
+    display: flex;
+    width: 95%;
+    margin: auto;
+  }
+  
+  .todo_top {
+    display: flex;
+    flex-direction: column;
+    width: 82%;
+    padding: 30px;
+  }
+  
+  .todo_profile {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .todo_profile > h2 {
+    color: rgb(67, 65, 65);
+  }
+  
+  .todo_screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    
+  }
+  
+  .ComingSoon {
+    font-size: 6rem;
+    color: #ded8d8;
+  }
+  
+  

@@ -1,0 +1,22 @@
+.HomeMain {
+    display: flex;
+    width: 95%;
+    margin: auto;
+    gap: 25px;
+  } 
+
+  .profile_top {
+    width: 93%;
+    padding: 0px 30px;
+    margin-top: 30px;
+  }
+  
+  .profile_top > div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .profile_top > div > h2 {
+    color: rgba(39, 38, 38, 0.822);
+  }
